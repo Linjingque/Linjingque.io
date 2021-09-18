@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://linjingque.github.io/Linjingque.io</id>
     <title>Hexo</title>
-    <link href="http://example.com" />
+    <link href="https://linjingque.github.io/Linjingque.io" />
     <updated>2021-09-18T15:25:24.000Z</updated>
     <entry>
-        <id>http://example.com/2021/09/18/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E5%95%8A/</id>
+        <id>https://linjingque.github.io/Linjingque.io/2021/09/18/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E5%95%8A/</id>
         <title>生日快乐啊</title>
-        <link rel="alternate" href="http://example.com/2021/09/18/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E5%95%8A/"/>
+        <link rel="alternate" href="https://linjingque.github.io/Linjingque.io/2021/09/18/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%E5%95%8A/"/>
         <content type="html"></content>
         <updated>2021-09-18T15:25:24.000Z</updated>
     </entry>
