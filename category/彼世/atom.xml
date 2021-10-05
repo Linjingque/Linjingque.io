@@ -5,7 +5,7 @@
     <link href="https://linjingque.github.io/Linjingque.io" />
     <updated>2021-09-20T16:00:00.000Z</updated>
     <category term="-六郎.中秋" />
-    <category term="-浮陆里绘卷" />
+    <category term="-浮陆里绘卷.歌宴" />
     <entry>
         <id>https://linjingque.github.io/Linjingque.io/2021/09/21/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%9E%97%E6%83%8A%E9%B9%8A/</id>
         <title>你好，林惊鹊（一）</title>
@@ -244,8 +244,11 @@
         <id>https://linjingque.github.io/Linjingque.io/2021/08/31/%E5%88%9D%E6%8E%A2%E6%B5%AE%E9%99%86%E9%87%8C%EF%BC%88%E4%B8%80%EF%BC%89/</id>
         <title>初探浮陆里（一）</title>
         <link rel="alternate" href="https://linjingque.github.io/Linjingque.io/2021/08/31/%E5%88%9D%E6%8E%A2%E6%B5%AE%E9%99%86%E9%87%8C%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-        <content type="html"></content>
-        <category term="-浮陆里绘卷" />
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;既然苦难与盛宴在彼此的尽头，不如于废墟上放歌。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="-浮陆里绘卷.歌宴" />
         <updated>2021-08-31T07:49:38.000Z</updated>
     </entry>
 </feed>
